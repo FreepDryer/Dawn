@@ -2,10 +2,10 @@
 
 ## Security maintainers
 
-Dawn's security maintainers are [@chnsw](https://github.com/chnsw) and
+Dawn's security maintainers are [@chnsw](https://github.com/chnsw), [@flummoxed](https://github.com/di-donna), and
 [@isinternets](https://github.com/isinternets).
 
-[@chnsw](https://github.com/chnsw) and [@isinternets](https://github.com/isinternets)
+[@chnsw](https://github.com/chnsw), [@flummoxed](https://github.com/di-donna), and [@isinternets](https://github.com/isinternets)
 handle Dawn's client security reviews, vulnerability triage, and security fixes,
 coordinating with other project maintainers where necessary.
 
@@ -24,7 +24,7 @@ when private vulnerability reporting is available:
 3. Describe the issue using the private reporting form.
 
 If **Report a vulnerability** is not available, contact
-[@chnsw](https://github.com/chnsw) privately using the Discord contact listed
+[@chnsw](https://github.com/chnsw), or [@flummoxed](https://github.com/di-donna) privately using the Discord contact listed
 on their GitHub profile. A repository administrator must enable GitHub's
 private vulnerability reporting before that reporting form can be used.
 
